@@ -3,7 +3,7 @@
 ### 1. To create an account go to: https://alpaca.markets/
 ### 2. Documentation can be found here: https://alpaca.markets/docs/
 
-#Disclaimer:
+# Disclaimer:
 
 The information provided here is for educational purposes only and is not intended as investment advice. Trading and investing carries a risk of financial loss, and it is important to do your own research and consult with a financial advisor before engaging in any trading or investment activity.
 
